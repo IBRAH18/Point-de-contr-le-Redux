@@ -1,0 +1,7 @@
+export const ADD_TODO = "ADD_TODO";
+export const TOGGLE_TODO = "TOGGLE_TODO";
+export const EDIT_TODO = "EDIT_TODO";
+export const EDIT_TODO_TASK = "EDIT_TODO_TASK";
+export const DELETE_TODO = "DELETE_TODO";
+export const MARK_ALL_COMPLETED = "MARK_ALL_COMPLETED";
+export const MARK_ALL_INCOMPLETED = "MARK_ALL_INCOMPLETED";
